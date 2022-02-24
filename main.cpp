@@ -13,6 +13,12 @@ public:
     int X;
 };
 
+class Steck
+{
+
+public:
+    int X;
+};
 
 int main(int argc, char *argv[])
 {
