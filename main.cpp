@@ -20,6 +20,12 @@ public:
     int X;
 };
 
+class SteckA
+{
+
+public:
+    int X;
+};
 int main(int argc, char *argv[])
 {
     //QCoreApplication a(argc, argv);
