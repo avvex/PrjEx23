@@ -1,4 +1,18 @@
 #include <QCoreApplication>
+class A
+{
+
+public:
+    int X;
+};
+
+class B
+{
+
+public:
+    int X;
+};
+
 
 int main(int argc, char *argv[])
 {
